@@ -1,5 +1,5 @@
-=== Plugin Name ===
-Contributors: A S M Sayem
+﻿=== Plugin Name ===
+Contributors: asmsayem
 Donate link: http://appstore.probashitimes.com/support-us/
 Tags: post, posts, related post, tag, tags, category, categories, link, links, rss, similar posts, feed, feeds
 Requires at least: 3.0
