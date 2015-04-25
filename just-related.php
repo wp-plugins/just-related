@@ -4,7 +4,7 @@
 Plugin Name: Just Related
 Plugin URI: http://appstore.probashitimes.com/
 Description: This is a simple plugin to show related posts' list just below your post.
-Version: 1.0.0
+Version: 1.0.1
 Author: A S M Sayem
 Author URI: https://profiles.wordpress.org/asmsayem/
 License: GPLv2
